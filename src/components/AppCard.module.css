@@ -1,0 +1,29 @@
+ .col {
+        width: 50%;
+        align-items: center;
+        justify-content: center;
+        height: 70vh;
+        
+      }
+.raw{
+    display: flex;
+    justify-content: center;
+    
+}
+.img{
+    height: 70%;
+    border-radius: 25px 25px 0 0 ;
+    background-color: rgb(185, 185, 185);
+    
+}
+
+.description{
+height: 30%;
+border-radius: 0 0 25px 25px;
+background-color: white;
+padding: 7px;
+}
+.title{
+    padding: 5px 0 5px 0;
+    
+}
