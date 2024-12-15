@@ -1,12 +1,13 @@
 .col {
-    width: 50%;
+    width: 40%;
     align-items: center;
     justify-content: center;
     height: 70vh;
-    
-  }
+    margin: 20px;
+}
 .raw{
 display: flex;
 justify-content: center;
+flex-wrap: wrap;
 }
 

@@ -8,9 +8,24 @@
 body{
     background-color: lightgray;
 }
+img{
+    max-width: 100%;
+}
 
 .container {
     width: 80%;
     margin: 0 auto;
   }
-
+  .html{
+    background-color: red;
+    
+}
+.css{
+    background-color: yellow;
+}
+.js{
+    background-color: aqua;
+}
+.php{
+    background-color: blueviolet;
+}
