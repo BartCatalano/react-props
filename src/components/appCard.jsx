@@ -12,8 +12,7 @@ function AppCard() {
       published: true,
     }
     return (
-        <div className={style.raw}>
-            <div className={style.col}>
+      <div>
                 <section className={style.img}>
                     <img src={post.image} alt="" />
                     </section>
@@ -22,9 +21,8 @@ function AppCard() {
                     <div>{post.content}</div>
                           <AppButton />
                 </section>
-               
-            </div>
-        </div>
+               </div>
+       
        
     );
 }

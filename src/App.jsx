@@ -1,6 +1,7 @@
 import AppHeader from "./components/appHeader"
-import AppCard from "./components/appCard"
 import AppFooter from "./components/AppFooter"
+import AppMain from "./components/appMain"
+
 
 
 function App() {
@@ -8,7 +9,7 @@ function App() {
   return (
     <>
  <AppHeader />
- <AppCard />
+ <AppMain />
 <AppFooter />
 
 
